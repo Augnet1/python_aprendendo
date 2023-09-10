@@ -1,6 +1,3 @@
-# python_aprendendo
-Repositório utilizado para aprender a linguagem python
-
 # Python
 Utilizando python
 
